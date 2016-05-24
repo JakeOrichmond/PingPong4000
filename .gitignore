@@ -35,8 +35,9 @@
 ehthumbs.db
 Thumbs.db
 
-# Java #
+# JavaScript #
 ########
 build/
-.gradle/
+tmp/
 node_modules/
+bower_components/
